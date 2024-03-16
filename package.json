@@ -1,0 +1,41 @@
+{
+  "name": "hieuquehuyho2",
+  "version": "1.0.1",
+  "description": "hieuquehuyho2",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h1eu/hieuquehuyho2"
+  },
+  "keywords": [
+    "hieuquehuyho2",
+    "react",
+    "native",
+    "audio",
+    "story"
+  ],
+  "author": "h1eu",
+  "devDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  },
+  "dependencies": {
+    "reactjs-audiotag": "^1.0.1",
+    "react-music-tag": "^1.0.1",
+    "tra_ngo_1": "^0.1.0",
+    "hahaclmm": "^1.1.0",
+    "car-rental": "^1.0.0",
+    "huyapp": "^0.1.1",
+    "tea-example": "1.2.0",
+    "hura": "0.1.0",
+    "hieuquehuyho1": "1.0.1"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h1eu/hieuquehuyho2/issues"
+  },
+  "homepage": "https://github.com/h1eu/hieuquehuyho2"
+}
